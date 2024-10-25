@@ -8,7 +8,7 @@ Hello, I have just started studying programming for 1 year.
 
 * 🌍  I'm based in Thai
 * 🚀  I'm currently working on [Mov](http://github.com/Aker490/mov)
-* 🧠  I'm learning Python And Web Develope
+* 🧠  I'm learning Python and web developers and more
 
 <a href="https://www.github.com/Aker490" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aker490?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
